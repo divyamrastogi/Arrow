@@ -1,4 +1,4 @@
-# ArrowHackathon
+# Arrow
 Contributors:
 Rohit Bogarappu
 Ankit Silaich
