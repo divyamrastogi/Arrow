@@ -1,0 +1,247 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-4c5a84ca444b41270b25bc19e547bfcd.eot');
+	src:url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-4c5a84ca444b41270b25bc19e547bfcd.eot') format('embedded-opentype'),
+		url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-49c4681dec068791111a95ba89ba81f1.woff2') format('woff2'),
+		url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-91e8cb49a2af676813f616147e03f305.woff') format('woff'),
+		url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-b2e43f343fcc6cdf246794b1f0e6787a.ttf') format('truetype'),
+		url('https://assets-1.housingcdn.com/icomoon/basic_icons/icomoon-81376dc7a73e5fdbb4c134629963b174.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+	content: "\e600";
+}
+.icon-contact:before {
+	content: "\e601";
+}
+.icon-lease:before {
+	content: "\e602";
+}
+.icon-save-search:before {
+	content: "\e603";
+}
+.icon-shortlist-circle:before {
+	content: "\e604";
+}
+.icon-radio:before {
+	content: "\e605";
+}
+.icon-tick-filled:before {
+	content: "\e606";
+}
+.icon-agent:before {
+	content: "\e607";
+}
+.icon-email-alert:before {
+	content: "\e608";
+}
+.icon-options:before {
+	content: "\e609";
+}
+.icon-filter-filled:before {
+	content: "\e60a";
+}
+.icon-filter:before {
+	content: "\e60b";
+}
+.icon-link:before {
+	content: "\e60c";
+}
+.icon-minus-circle:before {
+	content: "\e60d";
+}
+.icon-minus:before {
+	content: "\e60e";
+}
+.icon-plus-circle:before {
+	content: "\e60f";
+}
+.icon-plus:before {
+	content: "\e610";
+}
+.icon-close-thin:before {
+	content: "\e611";
+}
+.icon-close:before {
+	content: "\e612";
+}
+.icon-radio-filled:before {
+	content: "\e613";
+}
+.icon-price-tag:before {
+	content: "\e614";
+}
+.icon-shortlist-filled:before {
+	content: "\e615";
+}
+.icon-bulding:before {
+	content: "\e616";
+}
+.icon-point-of-interest:before {
+	content: "\e617";
+}
+.icon-forward-arrow:before {
+	content: "\e618";
+}
+.icon-shortlist:before {
+	content: "\e619";
+}
+.icon-checkbox-selected:before {
+	content: "\e61a";
+}
+.icon-bedroom:before {
+	content: "\e61b";
+}
+.icon-service-home-loans:before {
+	content: "\e61c";
+}
+.icon-apex:before {
+	content: "\e61d";
+}
+.icon-arrow-diagonal:before {
+	content: "\e61e";
+}
+.icon-arrow-down:before {
+	content: "\e61f";
+}
+.icon-arrow-left-back:before {
+	content: "\e620";
+}
+.icon-arrow-left:before {
+	content: "\e621";
+}
+.icon-arrow-right:before {
+	content: "\e622";
+}
+.icon-arrow-up:before {
+	content: "\e623";
+}
+.icon-bank:before {
+	content: "\e624";
+}
+.icon-bulding-filled:before {
+	content: "\e625";
+}
+.icon-checkbox-filled:before {
+	content: "\e626";
+}
+.icon-checkbox:before {
+	content: "\e627";
+}
+.icon-close-circle:before {
+	content: "\e628";
+}
+.icon-contact-filled:before {
+	content: "\e629";
+}
+.icon-double-arrow-up:before {
+	content: "\e62a";
+}
+.icon-double-arrow:before {
+	content: "\e62b";
+}
+.icon-edit:before {
+	content: "\e62c";
+}
+.icon-email-alert-thin:before {
+	content: "\e62d";
+}
+.icon-external-link:before {
+	content: "\e62e";
+}
+.icon-facebook:before {
+	content: "\e62f";
+}
+.icon-forum:before {
+	content: "\e630";
+}
+.icon-gplus:before {
+	content: "\e631";
+}
+.icon-home:before {
+	content: "\e632";
+}
+.icon-instagram:before {
+	content: "\e633";
+}
+.icon-list-your-property:before {
+	content: "\e634";
+}
+.icon-location-filled:before {
+	content: "\e635";
+}
+.icon-location-thin:before {
+	content: "\e636";
+}
+.icon-lock:before {
+	content: "\e637";
+}
+.icon-logout:before {
+	content: "\e638";
+}
+.icon-menu:before {
+	content: "\e639";
+}
+.icon-message-sent:before {
+	content: "\e63a";
+}
+.icon-message:before {
+	content: "\e63b";
+}
+.icon-picture:before {
+	content: "\e63c";
+}
+.icon-pinterest:before {
+	content: "\e63d";
+}
+.icon-point-of-interest-filled:before {
+	content: "\e63e";
+}
+.icon-rupee:before {
+	content: "\e63f";
+}
+.icon-search:before {
+	content: "\e640";
+}
+.icon-service-buy:before {
+	content: "\e641";
+}
+.icon-service-new-projects:before {
+	content: "\e642";
+}
+.icon-service-pg:before {
+	content: "\e643";
+}
+.icon-service-rent:before {
+	content: "\e644";
+}
+.icon-tick-circle:before {
+	content: "\e645";
+}
+.icon-time:before {
+	content: "\e646";
+}
+.icon-twitter:before {
+	content: "\e647";
+}
+.icon-youtube:before {
+	content: "\e648";
+}
+

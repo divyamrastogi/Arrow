@@ -1,0 +1,541 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-be8afa3a3c569e233485adc0317553f9.eot');
+	src:url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-be8afa3a3c569e233485adc0317553f9.eot') format('embedded-opentype'),
+		url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-11fe567a472b405ec9bb3cfc76233d1c.woff2') format('woff2'),
+		url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-b1fcb1cb88a5d90d533231b17b1b8c26.woff') format('woff'),
+		url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-5754caf143d1bbe31e139261944680a0.ttf') format('truetype'),
+		url('https://assets-1.housingcdn.com/icomoon/advanced_icons/icomoon-c83d8e37a1dba86d0670eda01393ba41.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-online:before {
+	content: "\f600";
+}
+.icon-cashback:before {
+	content: "\f601";
+}
+.icon-offers:before {
+	content: "\f602";
+}
+.icon-hl-calculator:before {
+	content: "\f603";
+}
+.icon-hl-coapplicant:before {
+	content: "\f604";
+}
+.icon-project-area:before {
+	content: "\f605";
+}
+.icon-basic:before {
+	content: "\f606";
+}
+.icon-gym:before {
+	content: "\f607";
+}
+.icon-arrow-horizontal:before {
+	content: "\f608";
+}
+.icon-email-alert:before {
+	content: "\f609";
+}
+.icon-flag-filled:before {
+	content: "\f60a";
+}
+.icon-reset:before {
+	content: "\f60b";
+}
+.icon-balcony2:before {
+	content: "\f60c";
+}
+.icon-centre-table:before {
+	content: "\f60d";
+}
+.icon-dth-cable:before {
+	content: "\f60e";
+}
+.icon-info:before {
+	content: "\f60f";
+}
+.icon-music-set:before {
+	content: "\f610";
+}
+.icon-time-thin:before {
+	content: "\f611";
+}
+.icon-arrow-right-circle:before {
+	content: "\f612";
+}
+.icon-bulb-glow:before {
+	content: "\f613";
+}
+.icon-delete-filled:before {
+	content: "\f614";
+}
+.icon-delete:before {
+	content: "\f615";
+}
+.icon-download-filled:before {
+	content: "\f616";
+}
+.icon-download:before {
+	content: "\f617";
+}
+.icon-hot-water:before {
+	content: "\f618";
+}
+.icon-ra-copy:before {
+	content: "\f619";
+}
+.icon-ra-optional-clause:before {
+	content: "\f61a";
+}
+.icon-ra-tenant:before {
+	content: "\f61b";
+}
+.icon-rupee-alt:before {
+	content: "\f61c";
+}
+.icon-circle-question:before {
+	content: "\f61d";
+}
+.icon-exclamation-circle:before {
+	content: "\f61e";
+}
+.icon-home-filled:before {
+	content: "\f61f";
+}
+.icon-ok:before {
+	content: "\f620";
+}
+.icon-female-user:before {
+	content: "\f621";
+}
+.icon-landlord:before {
+	content: "\f622";
+}
+.icon-male-user:before {
+	content: "\f623";
+}
+.icon-ra-commercials:before {
+	content: "\f624";
+}
+.icon-ra-property:before {
+	content: "\f625";
+}
+.icon-tenant:before {
+	content: "\f626";
+}
+.icon-thin-tick:before {
+	content: "\f627";
+}
+.icon-tick-circle:before {
+	content: "\f628";
+}
+.icon-thumbs-down:before {
+	content: "\f629";
+}
+.icon-experience:before {
+	content: "\f62a";
+}
+.icon-bus-filled:before {
+	content: "\f62b";
+}
+.icon-train-filled:before {
+	content: "\f62c";
+}
+.icon-bank-filled:before {
+	content: "\f62d";
+}
+.icon-bedroom-filled:before {
+	content: "\f62e";
+}
+.icon-department-store-filled:before {
+	content: "\f62f";
+}
+.icon-details:before {
+	content: "\f630";
+}
+.icon-female-filled:before {
+	content: "\f631";
+}
+.icon-hospital-filled:before {
+	content: "\f632";
+}
+.icon-male-female-filled:before {
+	content: "\f633";
+}
+.icon-male-filled:before {
+	content: "\f634";
+}
+.icon-message-thin:before {
+	content: "\f635";
+}
+.icon-movie-filled:before {
+	content: "\f636";
+}
+.icon-nightclub-filled:before {
+	content: "\f637";
+}
+.icon-park-filled:before {
+	content: "\f638";
+}
+.icon-pharmacy-filled:before {
+	content: "\f639";
+}
+.icon-plane-filled:before {
+	content: "\f63a";
+}
+.icon-restaurant-filled:before {
+	content: "\f63b";
+}
+.icon-school-filled:before {
+	content: "\f63c";
+}
+.icon-share:before {
+	content: "\f63d";
+}
+.icon-shopping-cart-filled:before {
+	content: "\f63e";
+}
+.icon-view:before {
+	content: "\f63f";
+}
+.icon-back:before {
+	content: "\f640";
+}
+.icon-ac:before {
+	content: "\f641";
+}
+.icon-attached-toilet:before {
+	content: "\f642";
+}
+.icon-available-for:before {
+	content: "\f643";
+}
+.icon-balcony:before {
+	content: "\f644";
+}
+.icon-barbecue:before {
+	content: "\f645";
+}
+.icon-bed:before {
+	content: "\f646";
+}
+.icon-bedding:before {
+	content: "\f647";
+}
+.icon-bedroom:before {
+	content: "\f648";
+}
+.icon-breakfast:before {
+	content: "\f649";
+}
+.icon-building:before {
+	content: "\f64a";
+}
+.icon-builtup-area:before {
+	content: "\f64b";
+}
+.icon-bus:before {
+	content: "\f64c";
+}
+.icon-calendar:before {
+	content: "\f64d";
+}
+.icon-car:before {
+	content: "\f64e";
+}
+.icon-caret-down:before {
+	content: "\f64f";
+}
+.icon-chimney:before {
+	content: "\f650";
+}
+.icon-clubhouse:before {
+	content: "\f651";
+}
+.icon-coffee-vending:before {
+	content: "\f652";
+}
+.icon-community-hall:before {
+	content: "\f653";
+}
+.icon-cook:before {
+	content: "\f654";
+}
+.icon-cooking-utensils:before {
+	content: "\f655";
+}
+.icon-cupboard:before {
+	content: "\f656";
+}
+.icon-customer-support:before {
+	content: "\f657";
+}
+.icon-department-store:before {
+	content: "\f658";
+}
+.icon-dining:before {
+	content: "\f659";
+}
+.icon-dinner:before {
+	content: "\f65a";
+}
+.icon-dishware:before {
+	content: "\f65b";
+}
+.icon-dressing-table:before {
+	content: "\f65c";
+}
+.icon-dryer:before {
+	content: "\f65d";
+}
+.icon-emergency-kit:before {
+	content: "\f65e";
+}
+.icon-external-link:before {
+	content: "\f65f";
+}
+.icon-facing:before {
+	content: "\f660";
+}
+.icon-female-user2:before {
+	content: "\f661";
+}
+.icon-fire-ext:before {
+	content: "\f662";
+}
+.icon-flag:before {
+	content: "\f663";
+}
+.icon-food-processor:before {
+	content: "\f664";
+}
+.icon-fridge:before {
+	content: "\f665";
+}
+.icon-garden:before {
+	content: "\f666";
+}
+.icon-gas-pipeline:before {
+	content: "\f667";
+}
+.icon-gated-society:before {
+	content: "\f668";
+}
+.icon-guardian:before {
+	content: "\f669";
+}
+.icon-hospital:before {
+	content: "\f66a";
+}
+.icon-intercom:before {
+	content: "\f66b";
+}
+.icon-internet:before {
+	content: "\f66c";
+}
+.icon-iron:before {
+	content: "\f66d";
+}
+.icon-jacuzzi:before {
+	content: "\f66e";
+}
+.icon-jogging:before {
+	content: "\f66f";
+}
+.icon-kids-play-area:before {
+	content: "\f670";
+}
+.icon-kids-pool:before {
+	content: "\f671";
+}
+.icon-kitchen:before {
+	content: "\f672";
+}
+.icon-library:before {
+	content: "\f673";
+}
+.icon-lift:before {
+	content: "\f674";
+}
+.icon-living-room:before {
+	content: "\f675";
+}
+.icon-locker:before {
+	content: "\f676";
+}
+.icon-medical-required:before {
+	content: "\f677";
+}
+.icon-mess:before {
+	content: "\f678";
+}
+.icon-message-filled:before {
+	content: "\f679";
+}
+.icon-microwave:before {
+	content: "\f67a";
+}
+.icon-movie:before {
+	content: "\f67b";
+}
+.icon-newspaper:before {
+	content: "\f67c";
+}
+.icon-night-club:before {
+	content: "\f67d";
+}
+.icon-non-veg:before {
+	content: "\f67e";
+}
+.icon-park:before {
+	content: "\f67f";
+}
+.icon-parking:before {
+	content: "\f680";
+}
+.icon-pets:before {
+	content: "\f681";
+}
+.icon-pharmacy:before {
+	content: "\f682";
+}
+.icon-pillow:before {
+	content: "\f683";
+}
+.icon-plane:before {
+	content: "\f684";
+}
+.icon-play-area:before {
+	content: "\f685";
+}
+.icon-pooja-room:before {
+	content: "\f686";
+}
+.icon-power-backup:before {
+	content: "\f687";
+}
+.icon-rate-alt:before {
+	content: "\f688";
+}
+.icon-restaurant:before {
+	content: "\f689";
+}
+.icon-road:before {
+	content: "\f68a";
+}
+.icon-sauna:before {
+	content: "\f68b";
+}
+.icon-school:before {
+	content: "\f68c";
+}
+.icon-security-camera:before {
+	content: "\f68d";
+}
+.icon-security-deposit:before {
+	content: "\f68e";
+}
+.icon-security:before {
+	content: "\f68f";
+}
+.icon-servant-room:before {
+	content: "\f690";
+}
+.icon-shopping-cart:before {
+	content: "\f691";
+}
+.icon-shower:before {
+	content: "\f692";
+}
+.icon-single-occupancy:before {
+	content: "\f693";
+}
+.icon-smoking:before {
+	content: "\f694";
+}
+.icon-sofa:before {
+	content: "\f695";
+}
+.icon-spa:before {
+	content: "\f696";
+}
+.icon-sports:before {
+	content: "\f697";
+}
+.icon-stove:before {
+	content: "\f698";
+}
+.icon-study-room:before {
+	content: "\f699";
+}
+.icon-swimming:before {
+	content: "\f69a";
+}
+.icon-table-chair:before {
+	content: "\f69b";
+}
+.icon-thumbs-up:before {
+	content: "\f69c";
+}
+.icon-time-thin2:before {
+	content: "\f69d";
+}
+.icon-toaster:before {
+	content: "\f69e";
+}
+.icon-toiletries:before {
+	content: "\f69f";
+}
+.icon-tour-service:before {
+	content: "\f6a0";
+}
+.icon-train:before {
+	content: "\f6a1";
+}
+.icon-tv:before {
+	content: "\f6a2";
+}
+.icon-walkin-closet:before {
+	content: "\f6a3";
+}
+.icon-walking:before {
+	content: "\f6a4";
+}
+.icon-warden:before {
+	content: "\f6a5";
+}
+.icon-washing-machine:before {
+	content: "\f6a6";
+}
+.icon-water-purifier:before {
+	content: "\f6a7";
+}
+.icon-water-supply:before {
+	content: "\f6a8";
+}
+.icon-wheel-chair:before {
+	content: "\f6a9";
+}
+.icon-wifi:before {
+	content: "\f6aa";
+}
+
