@@ -1,0 +1,163 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-463789d4c25642f032cede53a756b3ba.eot');
+	src:url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-463789d4c25642f032cede53a756b3ba.eot') format('embedded-opentype'),
+		url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-079e566393708e9f068ebb2cba389ec8.woff2') format('woff2'),
+		url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-c7865f0fe4a127498f742bf66f90336d.woff') format('woff'),
+		url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-791a445a1ca89c3abd9384055fccd8ed.ttf') format('truetype'),
+		url('https://assets-1.housingcdn.com/icomoon/new_projects/icomoon-fd62e4a6ecce195ee0a05857aefd9b01.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-np-downarrow2:before {
+	content: "\b600";
+}
+.icon-np-downarrow:before {
+	content: "\b601";
+}
+.icon-np-announcements:before {
+	content: "\b602";
+}
+.icon-np-deals-offers:before {
+	content: "\b603";
+}
+.icon-cab:before {
+	content: "\b604";
+}
+.icon-confirm-with-bulder:before {
+	content: "\b605";
+}
+.icon-trend:before {
+	content: "\b606";
+}
+.icon-np-aerobic:before {
+	content: "\b607";
+}
+.icon-np-amphitheater:before {
+	content: "\b608";
+}
+.icon-np-attic:before {
+	content: "\b609";
+}
+.icon-np-badminton:before {
+	content: "\b60a";
+}
+.icon-np-basketball:before {
+	content: "\b60b";
+}
+.icon-np-biometric:before {
+	content: "\b60c";
+}
+.icon-np-business:before {
+	content: "\b60d";
+}
+.icon-np-Concierge:before {
+	content: "\b60e";
+}
+.icon-np-cycletrack:before {
+	content: "\b60f";
+}
+.icon-np-daycare:before {
+	content: "\b610";
+}
+.icon-np-earthquake:before {
+	content: "\b611";
+}
+.icon-np-fire-resist:before {
+	content: "\b612";
+}
+.icon-np-firefight:before {
+	content: "\b613";
+}
+.icon-np-fireplace:before {
+	content: "\b614";
+}
+.icon-np-football:before {
+	content: "\b615";
+}
+.icon-np-golf:before {
+	content: "\b616";
+}
+.icon-np-hitechalrm:before {
+	content: "\b617";
+}
+.icon-np-homeautomation:before {
+	content: "\b618";
+}
+.icon-np-indoor:before {
+	content: "\b619";
+}
+.icon-np-internalroads:before {
+	content: "\b61a";
+}
+.icon-np-landscape:before {
+	content: "\b61b";
+}
+.icon-np-modular:before {
+	content: "\b61c";
+}
+.icon-np-motiontracking:before {
+	content: "\b61d";
+}
+.icon-np-pitch:before {
+	content: "\b61e";
+}
+.icon-np-rainwater:before {
+	content: "\b61f";
+}
+.icon-np-ramp:before {
+	content: "\b620";
+}
+.icon-np-servicelift:before {
+	content: "\b621";
+}
+.icon-np-sewage:before {
+	content: "\b622";
+}
+.icon-np-skating:before {
+	content: "\b623";
+}
+.icon-np-smokedetect:before {
+	content: "\b624";
+}
+.icon-np-squash:before {
+	content: "\b625";
+}
+.icon-np-tennis:before {
+	content: "\b626";
+}
+.icon-np-terrace:before {
+	content: "\b627";
+}
+.icon-np-utilitystore:before {
+	content: "\b628";
+}
+.icon-np-vastu:before {
+	content: "\b629";
+}
+.icon-np-volleyball:before {
+	content: "\b62a";
+}
+.icon-np-wall-climbing:before {
+	content: "\b62b";
+}
+.icon-np-yoga:before {
+	content: "\b62c";
+}
+
